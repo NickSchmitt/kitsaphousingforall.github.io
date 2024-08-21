@@ -2,16 +2,16 @@
 header:
   - title: "About"
     url: "/about/"
-    description: "Learn more about West Sound DSA"
+    description: "Learn more about Kitsap Housing For All"
   - title: "Get Involved"
     url: "/get-involved/"
-    description: "Check out what West Sound DSA is working on. Join DSA!"
+    description: "Check out what Kitsap Housing For All is working on. Join us!"
   - title: "Events Calendar"
     url: "/calendar/"
-    description: "West Sound DSA Events Calendar"
+    description: "Kitsap Housing For All Events Calendar"
   - title: "Statements"
     url: "/blog/"
-    description: "Link to West Sound DSA's Chapter Statements"
+    description: "Link to Kitsap Housing For All Statements"
 
 # footer links
 footer:

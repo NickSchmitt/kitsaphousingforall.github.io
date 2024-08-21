@@ -6,7 +6,7 @@ permalink: /get-involved/
 
 <h2>Join Kitsap Housing For All!</h2>
 
-[Contact us](mailto:kitsaphousing4all@gmail.com) to learn more!
+[Contact us](mailto:kitsapforall@gmail.com) to learn more!
 
 <h2>Events</h2>
 

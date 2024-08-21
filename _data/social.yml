@@ -25,7 +25,7 @@ facebook: &facebook
 email: &email
   label: "Email"
   icon: "fa fa-envelope"
-  url: "mailto:kitsaphousing4all@gmail.com"
+  url: "mailto:kitsapforall@gmail.com"
 
 # We use the above links in different combinations in 
 # different places in the site. Making lists in the manner

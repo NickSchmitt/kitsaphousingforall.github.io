@@ -4,7 +4,7 @@ title: "Blog"
 permalink: /blog/
 ---
 
-Recent statements and articles by West Sound DSA.
+Recent statements and articles by Kitsap Housing For All.
 
 <div class="row my-5">
   {% for post in site.posts %}

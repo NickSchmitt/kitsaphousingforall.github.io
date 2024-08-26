@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "Sept 15, 2:30pm: Learn about tenants rights to fight the housing crisis"
-permalink: /housing-crisis-tenants-rights-meetup
+permalink: /sept-15-tenants-rights-meetup
 tag: event
 short_description: "Sept 15: Learn about the housing crisis and meet other tenants to fight Hurst & Sons evictions and rent increases."
 image: assets/images/KH4A_logo_multicolor.jpg

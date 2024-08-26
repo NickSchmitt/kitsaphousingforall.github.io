@@ -12,7 +12,7 @@ Know Your Rights: Learn how to fight evictions at Hurst & Sons Mobile Parks
 Sept 15, 2:30pm @ Evergreen Park
 1503 Park Ave, Bremerton
 
-<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=X2NrczNhY2hsNm9xM2FjaGc2NHEzaWNwajZsMDZjb2IzY2xoNnVycmI1cGhtdXI4IGMxYWZkNzIwNGY0OTA4M2NhMjcxNzMxNGZjMWI5NTI5ODQ5MTJkOGZhYWQ4MDI2MTllNWJjZTBlNjMyY2MyZDNAZw&amp;tmsrc=c1afd7204f49083ca2717314fc1b952984912d8faad802619e5bce0e632cc2d3%40group.calendar.google.com">Add to Google Calendar<img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=X2NrczNhY2hsNm9xM2FjaGc2NHEzaWNwajZsMDZjb2IzY2xoNnVycmI1cGhtdXI4IGMxYWZkNzIwNGY0OTA4M2NhMjcxNzMxNGZjMWI5NTI5ODQ5MTJkOGZhYWQ4MDI2MTllNWJjZTBlNjMyY2MyZDNAZw&amp;tmsrc=c1afd7204f49083ca2717314fc1b952984912d8faad802619e5bce0e632cc2d3%40group.calendar.google.com">Add event to Google Calendar</a>
 
 [Facebook Event](https://www.facebook.com/share/QzKSkbr7PcxCkN7j/)
 

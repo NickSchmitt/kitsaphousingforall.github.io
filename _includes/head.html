@@ -1,13 +1,19 @@
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta property="og:title" content="Kitsap Housing For All - United for Housing Justice in Kitsap" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://www.kitsaphousingforall.org" />
+	<meta property="og:description"
+		content="Kitsap Housing For All is dedicated to housing justice in Kitsap. We're currently focused on preventing evictions of fixed-income seniors in East Bremerton. Join us in our fight against millionaire landlords!" />
+	<meta property="og:image" content="{{site.url}}/assets/images/KH4A_logo_multicolor.jpg" />
 
-    {% seo %}
 
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}"
-        href="{{ '/feed.xml' | relative_url }}">
+	{% seo %}
 
-    {% include head/favicon.html %}
-    {% include head/styles.html %}
+	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
+
+	{% include head/favicon.html %}
+	{% include head/styles.html %}
 </head>

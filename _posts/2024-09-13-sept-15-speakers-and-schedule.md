@@ -4,7 +4,7 @@ title: "Sept 15 Event: Speakers & Schedule"
 permalink: /sept-15-speakers-and-schedule
 tag: event
 short_description: "Sept 15: Learn about the housing crisis and meet other tenants to fight Hurst & Sons evictions and rent increases."
-image: assets/images/park-map.jpg
+image: assets/images/park-map2.jpg
 ---
 
 ## Location

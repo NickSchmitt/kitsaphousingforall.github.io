@@ -15,7 +15,7 @@ image: assets/images/park-map.jpg
 ### 2:30pm - Welcome!
 Grab a beverage, say hi to your neighbors, and find a seat!
 
-### 3:00pm - Panel Discussion with Q&A
+### 3:00pm - Speakers and Q&A
 
 Speakers:
  - **Deb Wilson** and **Caroline Hardy** are from Leisure Manor Estates, a Hurst & Son Property in Aberdeen. Deb is president of the Leisure Manor Tenants Association and Caroline serves as secretary. The Association has been instrumental in alerting the Attorney General’s office to Hurst & Son violations of tenant protection laws, resulting in a heightened, in-depth, investigation into the company and their business practices. They have also been instrumental in adding a new city ordinance regarding Aberdeen manufactured home parks. 

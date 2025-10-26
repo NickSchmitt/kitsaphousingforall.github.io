@@ -12,6 +12,9 @@ header:
   - title: "Statements"
     url: "/blog/"
     description: "Link to Kitsap Housing For All Statements"
+  - title: "Resources"
+    url: "/resources/"
+    description: "Link to several local charity and mutual aid groups"
 
 # footer links
 footer:

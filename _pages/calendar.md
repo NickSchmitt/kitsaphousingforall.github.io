@@ -6,7 +6,7 @@ permalink: /calendar/
 
 <div id="upcoming"></div>
 <div class="span9">
-	<h3>West Sound DSA Events</h3>
+	<h3>West Sound DSA Events (Kitsap Housing for All events in BLUE)</h3>
 
 	<div class="calendar-desktop">
 		<iframe

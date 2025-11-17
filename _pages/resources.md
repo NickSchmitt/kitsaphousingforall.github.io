@@ -35,8 +35,8 @@ Event Calendar and THE best magazine in Kitsap <br>
 BZF is the West Sound's first zine and small press festival. It invites us all to connect over shared experiences and explore new ideas in a non-judgmental environment.<br>
 <br>
 <h2>Advocate Groups</h2>
-[Kitsap Housing For All](https://https://kitsaphousing4all.org/)<br>
-Our housing justice partner organization <br>
+[West Sound Democratic Socialists of America](https://westsound.dsachapters.org//)<br>
+Our parent organization that advocates for the working class and the disenfranchised locally <br>
 <br>
 [Kitsap Palestine Solidarity Coalition](https://linktr.ee/kitsap_psc)<br>
 Palestinians, Jews, Muslims, & allies working for peace & justice in Palestine. We support self-determination for all people!<br>

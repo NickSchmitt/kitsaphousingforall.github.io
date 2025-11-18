@@ -10,4 +10,4 @@ We are looking for volunteers to help us canvass at Kitsap mobile home parks to 
 
 **Learn more and get involved [here](../get-involved/).**
 
-We also want to inform WA residents about the impact of HB 127 on all other renters as well. The new law limits rent increases for properties subject to the Residential Landlord Tenant Act at a maximum of 10.0%. Informational and legal resources can be found (here](../resources)
+We also want to inform WA residents about the impact of HB 127 on all other renters as well. The new law limits rent increases for properties subject to the Residential Landlord Tenant Act at a maximum of 10.0%. Informational and legal resources can be found [here](../resources)

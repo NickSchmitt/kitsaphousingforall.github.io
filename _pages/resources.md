@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Community Resources"
+title: "Resources"
 permalink: /resources/
 ---
 For informational resources and legal help click here-> [Informational Resources](../info)<br>

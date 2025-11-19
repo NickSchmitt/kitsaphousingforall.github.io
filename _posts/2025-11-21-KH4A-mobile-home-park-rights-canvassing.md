@@ -4,7 +4,7 @@ title: "November 21st Event: Canvasser Training"
 permalink: /mobile-home-park-rights-canvassing
 tag: event
 short_description: "Nov 21: Learn how to canvass at mobile home parks across Kitsap to teach your neighbors their rights."
-
+image: assets/images/KH4A_logo_multicolor.jpg
 ---
 
 ## Location

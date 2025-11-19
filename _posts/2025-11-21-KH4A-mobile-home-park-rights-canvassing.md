@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "November 21st Event: Canvasser Training"
-permalink: /nov-21-canvasser-training
+permalink: /mobile-home-park-rights-canvassing
 tag: event
 short_description: "Nov 21: Learn how to canvass at mobile home parks across Kitsap to teach your neighbors their rights."
 
